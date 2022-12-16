@@ -1,0 +1,14 @@
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\bin\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.exe
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\bin\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.deps.json
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\bin\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.runtimeconfig.json
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\bin\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.runtimeconfig.dev.json
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\bin\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.dll
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\bin\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.pdb
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\obj\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.csproj.AssemblyReference.cache
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\obj\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\obj\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.AssemblyInfoInputs.cache
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\obj\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.AssemblyInfo.cs
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\obj\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.csproj.CoreCompileInputs.cache
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\obj\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.dll
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\obj\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.pdb
+C:\Users\M9016170\source\repos\translatewordschallenge_venkatesh\obj\Debug\netcoreapp3.1\translatewordschallenge_venkatesh.genruntimeconfig.cache
